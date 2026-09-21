@@ -1,0 +1,4 @@
+Logo HK (logo.png): Trích xuất từ file logo chính thức do người dùng cung cấp.
+Hình ảnh Gallery / Thực tế: Đang sử dụng SVG Placeholder chuẩn khung định dạng để chủ website thay bằng ảnh thật thực tế.
+Font chữ: System UI Font Stack (Không tải font ngoài để tối ưu Lighthouse Performance > 90).
+Icons: Unicode / Inline SVG để tối ưu dung lượng trang.
