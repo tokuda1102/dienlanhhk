@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
             e.preventDefault();
 
             // Cấu hình URL Web App Google Apps Script của bạn tại đây
-            const GOOGLE_SHEETS_SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID_HERE/exec';
+            const GOOGLE_SHEETS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzdB0-qYdvHcy3DUelWKAjEolu9IEdS84iCcEeFnNVMxG-IQ8-ff6-322WbZPdlSu1X2g/exec';
 
             const phone = document.getElementById('phone').value;
             const service = document.getElementById('service').value;
